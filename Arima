@@ -2,7 +2,7 @@
 Theme Owned and Made by Arima#9999
   
 Background Img: https://wpblink.com/sites/default/files/wallpaper/anime/66761/sword-art-online-ii-wallpapers-hd-66761-327252.png 
-Transparency2 Module: https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency2.css - By Ruben7173#5048
+Transparency2 Module: https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency2.css
 
 The 2 items above are not owned by me, They go to there respected owners
 */
@@ -10,7 +10,7 @@ The 2 items above are not owned by me, They go to there respected owners
 :root{
     --background: url('https://images5.alphacoders.com/542/542751.jpg');
     --background-position: center; /* app background position [default: center] */
-    --background-size: 100px 120px; /* app background size [default: cover] */
+    --background-size: 1080px 1920px; /* app background size [default: cover] */
     --background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
     --background-attachment: fixed; /* app background attachment [default: fixed] */
     --activetext-colour: white;
